@@ -3,17 +3,8 @@
 Sou um Desenvolvedor e entusiasta da programação. Atualmente trabalho como Fullstack. Estou sempre buscando e aprofundando meus conhecimentos.
 
 <div align="center">
-  <!-- <a href="https://github.com/SrHenry"> -->
-  <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api?username=SrHenry&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats-srhenry.vercel.app/api/top-langs/?username=SrHenry&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-## Reporitórios destacados
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats-srhenry.vercel.app/api/pin/?username=SrHenry&repo=storage-manager&theme=github_dark)](https://github.com/SrHenry/storage-manager)
-  [![Readme Card](https://github-readme-stats-srhenry.vercel.app/api/pin/?username=SrHenry&repo=type-utils&theme=github_dark)](https://github.com/SrHenry/type-utils)
-
+  <img width="45%" src="https://github-readme-stats-guihfrosa.vercel.app/api?username=SrHenry&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats-guihfrosa.vercel.app/api/top-langs/?username=SrHenry&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## Tecnologias
