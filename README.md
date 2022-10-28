@@ -18,4 +18,5 @@ Sou um Desenvolvedor e entusiasta da programação. Atualmente trabalho como Ful
   <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ruby" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Ruby" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   
